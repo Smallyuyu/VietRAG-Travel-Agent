@@ -18,3 +18,25 @@ Hanoi.docx and HoChiMinh.docx are the primary external knowledge bases for RAG s
 
 ## WorkFlow
 <img src="workflow.png" width="60%">
+
+## Usage
+
+https://colab.research.google.com/drive/13dNnj0nxg3BTzj04QrNRL0kCHn-zb-rQ?usp=sharing
+
+### 1. Open Colab and Add Your API key
+<img src="secret.png" width="30%">
+
+### 2. Download Data and Upload (Cell 1)
+
+<img src="file.png" width="30%">
+
+### 3. Download Module (Cell 2, 3)
+Return Error Messeage is true, because we restarted kernel here.
+
+<img src="Error_msg.png" width="30%">
+
+### 4. Create FAISS Data (Cell 4, 5)
+
+### 5. Open Gradio UI and Start! (Cell 6)
+
+<img src="result.png" width="60%">
