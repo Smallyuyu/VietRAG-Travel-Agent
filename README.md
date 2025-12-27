@@ -13,5 +13,8 @@ VietRAG Travel Agent is a RAG‑powered Vietnam travel assistant that combines f
 ## Data
 Hanoi.docx and HoChiMinh.docx are the primary external knowledge bases for RAG system. They serve as the authoritative local content that gets chunked, embedded, and indexed into FAISS. These documents provide the factual grounding that the LLM uses to produce source‑backed answers and reduce hallucinations.
 
+## Finite State Machine
+<img src="FSM.png" width="60%">
+
 ## WorkFlow
 <img src="workflow.png" width="60%">
